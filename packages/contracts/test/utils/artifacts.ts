@@ -16,6 +16,7 @@ import * as TestAssetProxyDispatcher from '../../artifacts/TestAssetProxyDispatc
 import * as TestAssetProxyOwner from '../../artifacts/TestAssetProxyOwner.json';
 import * as TestLibBytes from '../../artifacts/TestLibBytes.json';
 import * as TestLibs from '../../artifacts/TestLibs.json';
+import * as TestMixinExchangeCore from '../../artifacts/TestMixinExchangeCore.json';
 import * as TestSignatureValidator from '../../artifacts/TestSignatureValidator.json';
 import * as TestValidator from '../../artifacts/TestValidator.json';
 import * as TestWallet from '../../artifacts/TestWallet.json';
@@ -42,6 +43,7 @@ export const artifacts = {
     TestAssetProxyDispatcher: (TestAssetProxyDispatcher as any) as ContractArtifact,
     TestLibBytes: (TestLibBytes as any) as ContractArtifact,
     TestLibs: (TestLibs as any) as ContractArtifact,
+    TestMixinExchangeCore: (TestMixinExchangeCore as any) as ContractArtifact,
     TestSignatureValidator: (TestSignatureValidator as any) as ContractArtifact,
     TestValidator: (TestValidator as any) as ContractArtifact,
     TestWallet: (TestWallet as any) as ContractArtifact,

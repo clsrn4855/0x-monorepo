@@ -39,12 +39,13 @@
         "TestAssetProxyDispatcher",
         "TestLibBytes",
         "TestLibs",
+        "TestMixinExchangeCore",
         "TestSignatureValidator",
         "TestValidator",
         "TestWallet",
         "TokenRegistry",
-        "Whitelist",
         "WETH9",
+        "Whitelist",
         "ZRXToken"
     ]
 }
